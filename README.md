@@ -15,8 +15,9 @@ Bem vindo(a) !!
  <br>
 <div> 
   <a href = "mailto:gabrielmendes8656@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:https://www.linkedin.com/in/gabriel-mendes-54627824b/"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=Linkedin&logoColor=white&color=blue" "target="_blank"></a>
 
  
-  ![Snake animation](https://github.com/Gb-Mendes/Gb-Mendes/blob/output/github-contribution-grid-snake.svg)
+ <!-- ![Snake animation](https://github.com/Gb-Mendes/Gb-Mendes/blob/output/github-contribution-grid-snake.svg) -->
 
 </div>
