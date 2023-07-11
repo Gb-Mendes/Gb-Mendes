@@ -1,5 +1,5 @@
 ## Olá, sou Gabriel Mendes   <img align="center" alt="CSS" height="50" width="50" src="https://i.gifer.com/origin/2f/2f548a4cff82755977ae34fe08e4ac50.gif">
-Bem vindo(a) !!
+Bem vindo(a) !
 
  <div>
    <a href="https://github.com/Gb-Mendes">
